@@ -1,6 +1,6 @@
 [
   {
-    "repository": "TeamOrion-Devices/device_sony_common",
+    "repository": "TEAM-RAZOR-DEVICES/device_sony_common",
     "target_path": "device/sony/common",
     "revision": "lp5.1"
   },
