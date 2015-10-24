@@ -5,7 +5,7 @@
     "revision": "lp5.1"
   },
   {
-    "repository": "TeamOrion-Devices/kernel_sony_msm8x27",
+    "repository": "TEAM-RAZOR-DEVICES/kernel_sony_msm8x27",
     "target_path": "kernel/sony/msm8x27",
     "revision": "lp5.1"
   },
